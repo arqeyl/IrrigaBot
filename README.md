@@ -2,7 +2,7 @@ An irrigation system made using Arduino components and a mobile application deve
 
 Below is a YouTube video on how to assemble the Arduino components and a demonstration of the mobile application:
 
-https://www.youtube.com/watch?v=Sm5TvAR84Lo
+[![Watch the video](https://img.youtube.com/vi/Sm5TvAR84Lo/0.jpg)](https://www.youtube.com/watch?v=Sm5TvAR84Lo)
 
 ----
 
